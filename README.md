@@ -129,8 +129,3 @@ ia_historique/            à remplir : export COMPLET des conversations avec l'I
 2. Rapport 10 pages max → à rédiger à partir de `rapport/PLAN_RAPPORT.md`
 3. Historique complet des conversations avec l'IA → `ia_historique/` (voir `LISEZMOI.md` dans ce dossier)
 
-## 7. Honnêteté sur l'état du code
-Le pipeline, l'interface et le notebook ont été exécutés de bout en bout sur un **jeu synthétique** (`scripts/make_synthetic.py`)
-pour vérifier l'absence d'erreur. Ils **n'ont pas été exécutés sur les vraies données Amazon** : les résultats réels sont à produire
-par toi, et les chiffres du synthétique n'ont aucune valeur scientifique. Les URL de téléchargement automatique des CSV 5-core
-n'ont pas pu être testées : en cas d'échec, utilise la méthode manuelle (2.B).
