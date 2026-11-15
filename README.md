@@ -1,4 +1,4 @@
-# Projet RS — Recommandeur hybride sur Amazon Reviews 2023
+# Projet RS2026 — Recommandeur hybride sur Amazon Reviews 2023
 
 Hybride **pondéré + switching** (CF item-item, CF SVD, contenu TF-IDF, popularité) avec filtres par contraintes,
 évaluation complète (précision, couverture, diversité, nouveauté, cold-start) et interface Gradio avec explications.
